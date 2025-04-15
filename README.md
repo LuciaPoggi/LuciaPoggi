@@ -1,33 +1,69 @@
-👋 Hi, I’m @LuciaPoggi  
-💻 Passionate about cybersecurity, data analysis, and bringing ideas to life through code.  
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="animated banner" width="100%" />
+</p>
 
-👀 I’m interested in:
-- Ethical hacking & cybersecurity challenges  
-- Database management with SQL  
-- Frontend fun with JavaScript  
-- Turning data into stories 📊  
+<h1 align="center">✨ Hola, soy Lucia Poggi ✨</h1>
+<p align="center">💻 Estudiante de Administración de Sistemas Informáticos en Red | Apasionada por la Ciberseguridad y la Tecnología</p>
 
-🌱 I’m currently learning:  
-- New tools and techniques in cybersecurity 🔐  
-- Best practices for clean and scalable code  
-- How to connect data, security, and user experience  
+---
 
-💞️ I’m looking to collaborate on:  
-- Security-focused web apps  
-- Data-driven projects  
-- Open source tools that make tech safer and smarter  
+### 🌱 Sobre mí
 
-📫 How to reach me:  
-- [LinkedIn](https://www.linkedin.com/in/lucia-poggi-doga-71aa39232)  
-- GitHub messages  
+📍 Nacida en Argentina  
+📚 Cursando mi **primer año** en la formación de **Administración de Sistemas Informáticos en Red**  
+🔐 Me estoy encontrando con el mundo de la **ciberseguridad** y me encanta  
+🧠 Aprendiendo todos los días un poquito más sobre tecnología, sistemas y datos
 
-😄 Pronouns: she/her | ella  
+---
 
-⚡ Fun fact:  
-I have a web design certification, and I love blending creativity with logic. Also, CTFs (Capture The Flag) are my kind of puzzle 🧩  
+### 💡 Intereses actuales
+
+- 🌐 Ciberseguridad básica y hacking ético
+- 🛠️ Herramientas de administración de sistemas
+- 📊 Curiosidad por el análisis de datos y la visualización
+- 🎨 Diseño web (tengo una certificación 👇)
+
+---
+
+### 📜 Certificaciones
+
+- ✔️ Certificación en **Diseño de Páginas Web**
+
+---
+
+### 🧰 Tecnologías que estoy conociendo
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 💬 Un poco más de mí
+
+✨ Estoy en pleno proceso de descubrimiento profesional  
+🚀 Sueño con crecer en el mundo IT, sobre todo en el área de seguridad informática  
+💬 Me encanta aprender en comunidad, compartir y conectar con personas que tengan mis mismos intereses  
+
+---
+
+### 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/-Lucia%20Poggi-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucia-poggi-doga-71aa39232)
+
+---
+
+### ⚡ Fun fact
+
+> Aún no estoy programando de forma activa, pero me emociona cada paso que doy en este camino 💪
+
+---
+
+<p align="center">
+  Gracias por visitar mi perfil 💙 ¡Vamos aprendiendo juntas/os!
+</p>
 
 
-<!---
-LuciaPoggi/LuciaPoggi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
