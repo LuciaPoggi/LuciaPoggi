@@ -10,7 +10,7 @@
 ### 🌱 Sobre mí
 
 📍 Nacida en Argentina  
-📚 Cursando mi **primer año** en la formación de **Administración de Sistemas Informáticos en Red**  
+📚 Cursando mi **segundo año** en la formación de **Administración de Sistemas Informáticos en Red**  
 🔐 Me estoy encontrando con el mundo de la **ciberseguridad** y me encanta  
 🧠 Aprendiendo todos los días un poquito más sobre tecnología, sistemas y datos
 
